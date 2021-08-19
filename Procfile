@@ -1,1 +1,0 @@
-web: gunicorn resumproject.wsgi --log-file -
